@@ -1,4 +1,4 @@
-# 🖼AI Image Captioning App
+# AI Image Captioning App
 
 An intelligent image captioning application that generates descriptive text for any uploaded image using Salesforce's BLIP (Bootstrapping Language-Image Pre-training) model via Hugging Face API.
 
