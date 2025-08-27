@@ -62,14 +62,14 @@ image-captioning-app/
     └── sample_3.jpg
 ```
 
-## 🛠️ How It Works
+## How It Works
 
 1. **Image Processing**: Uploaded images are converted to base64 format
 2. **API Call**: Image data is sent to Hugging Face's BLIP model endpoint
 3. **Caption Generation**: The AI model analyzes the image and generates a descriptive caption
 4. **Display Results**: The caption is displayed in the user interface
 
-## 🧠 About the AI Model
+## About the AI Model
 
 This app uses **Salesforce's BLIP** (Bootstrapping Language-Image Pre-training) model:
 - **Model Size**: 14M parameters
@@ -86,11 +86,10 @@ Want to modify the app? Here are some ideas:
 - **Styling**: Customize the Gradio theme and layout
 - **Batch Processing**: Add support for multiple image uploads
 
-## Demo & Social Media
-- **LinkedIn Post**: [Link to your LinkedIn demo]
+## Demo
 - **Video Demo**: [Link to your demo video]
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -108,8 +107,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ If you found this project helpful, please give it a star on GitHub!
+If you found this project helpful or interesting, please give it a star on GitHub.
 
-## 🏷️ Tags
+## Tags
 
 `artificial-intelligence` `computer-vision` `image-captioning` `machine-learning` `deep-learning` `gradio` `huggingface` `python` `blip` `ai-app`
