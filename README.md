@@ -17,7 +17,7 @@ An intelligent image captioning application that generates descriptive text for 
 
 ### Option 1: Run on Google Colab (Recommended)
 
-1. **Open in Colab**: [![Open In Colab](https://colab.research.google.com/github/JadeEmm/ai-image-captioning-app/blob/main/AI_Image_Captioning_App_Google_Colab_Notebook(Public).ipynb)
+1. **Open in Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JadeEmm/ai-image-captioning-app/blob/main/AI_Image_Captioning_App_Google_Colab_Notebook(Public).ipynb)
 
 2. **Set up your API key**:
    - Go to [Hugging Face](https://huggingface.co/) and create a free account
