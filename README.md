@@ -103,7 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **GitHub**: [@JadeEmm](https://github.com/JadeEmm)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/jade-emmanuel)
+- **LinkedIn**: [Jade Emmanuel](https://linkedin.com/in/jade-emmanuel)
 
 ---
 
