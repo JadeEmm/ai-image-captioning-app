@@ -1,10 +1,10 @@
-# 🖼️ AI Image Captioning App
+# 🖼AI Image Captioning App
 
 An intelligent image captioning application that generates descriptive text for any uploaded image using Salesforce's BLIP (Bootstrapping Language-Image Pre-training) model via Hugging Face API.
 
 ![App Demo](https://img.shields.io/badge/Demo-Live-brightgreen) ![Python](https://img.shields.io/badge/Python-3.7+-blue) ![Gradio](https://img.shields.io/badge/Gradio-Latest-orange)
 
-## 🌟 Features
+## Features
 
 - **Easy Image Upload**: Drag & drop or click to upload any image
 - **Webcam Support**: Take photos directly from your camera
@@ -13,11 +13,11 @@ An intelligent image captioning application that generates descriptive text for 
 - **Clean Interface**: User-friendly web interface built with Gradio
 - **Free to Use**: Runs on Google Colab for free
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Run on Google Colab (Recommended)
 
-1. **Open in Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/image-captioning-app/blob/main/image_captioning_app.ipynb)
+1. **Open in Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JadeEmm/image-captioning-app/blob/main/image_captioning_app.ipynb)
 
 2. **Set up your API key**:
    - Go to [Hugging Face](https://huggingface.co/) and create a free account
@@ -34,7 +34,7 @@ An intelligent image captioning application that generates descriptive text for 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/image-captioning-app.git
+git clone https://github.com/JadeEmm/image-captioning-app.git
 cd image-captioning-app
 
 # Install dependencies
@@ -52,14 +52,14 @@ python app.py
 ```
 image-captioning-app/
 │
-├── image_captioning_app.ipynb    # Main Colab notebook
+├── AI_Image_Captioning_App_Google_Colab_Notebook(Public).ipynb    # Main Colab notebook
 ├── app.py                        # Standalone Python app
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # This file
 └── examples/                     # Example images for testing
-    ├── dog.jpg
-    ├── landscape.jpg
-    └── people.jpg
+    ├── sample_1.jpg
+    ├── sample_2.jpg
+    └── sample_3.jpg
 ```
 
 ## 🛠️ How It Works
@@ -77,7 +77,7 @@ This app uses **Salesforce's BLIP** (Bootstrapping Language-Image Pre-training) 
 - **Capabilities**: Understands objects, scenes, actions, and relationships in images
 - **Accuracy**: High-quality captions for diverse image types
 
-## 🔧 Customization
+## Customization
 
 Want to modify the app? Here are some ideas:
 
@@ -86,31 +86,25 @@ Want to modify the app? Here are some ideas:
 - **Styling**: Customize the Gradio theme and layout
 - **Batch Processing**: Add support for multiple image uploads
 
-## 📱 Demo & Social Media
-
-- **Live Demo**: [Link to your deployed app]
+## Demo & Social Media
 - **LinkedIn Post**: [Link to your LinkedIn demo]
 - **Video Demo**: [Link to your demo video]
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Salesforce** for the BLIP model
 - **Hugging Face** for the API and model hosting
 - **Gradio** for the amazing interface framework
 - **Google Colab** for free GPU/CPU resources
 
-## 📧 Contact
+## Contact
 
-- **GitHub**: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **GitHub**: [@JadeEmm](https://github.com/JadeEmm)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/jade-emmanuel)
 
 ---
 
