@@ -2,7 +2,7 @@
 
 An intelligent image captioning application that generates descriptive text for any uploaded image using Salesforce's BLIP (Bootstrapping Language-Image Pre-training) model via Hugging Face API.
 
-[![App Demo](https://img.shields.io/badge/Demo-Video-brightgreen)](https://github.com/JadeEmm/ai-image-captioning-app/blob/main/Image%20Captioning%20AI%20App%20Demo.mp4?raw=true)
+[![App Demo](https://img.shields.io/badge/Demo-Video-brightgreen)](https://github.com/JadeEmm/ai-image-captioning-app/raw/refs/heads/main/Image%20Captioning%20AI%20App%20Demo.mp4)
 ![Python](https://img.shields.io/badge/Python-3.7+-blue) 
 ![Gradio](https://img.shields.io/badge/Gradio-Latest-orange)
 
